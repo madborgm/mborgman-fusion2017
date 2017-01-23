@@ -1,7 +1,42 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
 h1, h3 {
 	font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+	padding-top: 50px;
+	text-align: center;
+	color: white;
+	margin-top: 0;
+	font-size: 48px;
+}
+
+
+
+.row {
+	width: 100%;
 }
 
 p {
 	font-family: "Open Sans", sans-serif;
+}
+
+.map {
+	display: inline-block;
+}
+
+.header {
+	background-color: #EC008C;
+	width: 100%;
+	height: 140px;
+}
+
+.main-container {
+	width: 800px;
+	margin: 0 auto;
 }
