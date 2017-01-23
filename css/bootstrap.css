@@ -1215,6 +1215,7 @@ h6 .small,
   font-weight: normal;
   line-height: 1;
   color: #777;
+  font-family: 'Montserrat', sans-serif;
 }
 h1,
 .h1,
@@ -1288,6 +1289,7 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  font-family: 'Open Sans', sans-serif;
 }
 .lead {
   margin-bottom: 20px;
